@@ -2,6 +2,7 @@ _libgcc_mutex==0.1
 _openmp_mutex==4.5
 bzip2==1.0.8
 ca-certificates==2021.10.8
+greenlet==1.1.2
 ld_impl_linux-64==2.36.1
 libffi==3.4.2
 libgcc-ng==11.2.0
@@ -17,6 +18,7 @@ python==3.10.0
 python_abi==3.10
 readline==8.1
 setuptools==58.4.0
+sqlalchemy==1.4.26
 sqlite==3.36.0
 tk==8.6.11
 tzdata==2021e
